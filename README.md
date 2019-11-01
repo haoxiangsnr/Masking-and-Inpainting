@@ -1,6 +1,6 @@
 # Masking and Inpainting
 
-_A two-stage speech enhancement approach for low SNR and non-stationary noise_
+_A two-stage speech enhancement approach for low SNR and non-stationary noise._
 
 Submited to ICASSP 2020.
 
